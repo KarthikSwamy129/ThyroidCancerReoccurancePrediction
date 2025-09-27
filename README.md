@@ -6,8 +6,8 @@ We cleaned 900+ records, trained a Random-Forest model (ROC-AUC ≈ 0.94), wrapp
 
 What's inside:
 
-File	|| Purpose
-dataset.csv	|| 900+ patient records used for training
-ThyroidCancer.ipynb	|| End-to-end Colab notebook (EDA → modelling → evaluation)
-Thyroid Cancer Detection.pdf || About the project and dataset
-thyroid_recurrence_model.pkl ||	Trained Random-Forest model
+||File	==> Purpose||
+||dataset.csv	==> 900+ patient records used for training||
+||ThyroidCancer.ipynb	==> End-to-end Colab notebook (EDA → modelling → evaluation)||
+||Thyroid Cancer Detection.pdf ==> About the project and dataset||
+||thyroid_recurrence_model.pkl ==> Trained Random-Forest model||
